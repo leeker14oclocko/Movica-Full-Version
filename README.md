@@ -239,3 +239,6 @@ This repository serves as the official landing page for Movica. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Movica today!**
+
+---
+**Last updated:** 2026-09-11 07:32:57 UTC
