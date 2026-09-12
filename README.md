@@ -241,4 +241,4 @@ This repository serves as the official landing page for Movica. The software is 
 **Get the most recent version of Movica today!**
 
 ---
-**Last updated:** 2026-09-12 09:41:53 UTC
+**Last updated:** 2026-09-12 13:12:29 UTC
